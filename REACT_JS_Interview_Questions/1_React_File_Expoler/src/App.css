@@ -1,0 +1,67 @@
+.Folder {
+  padding-left: 10px;
+}
+
+.folder {
+  background: #dadada40;
+  width: 400px;
+  padding: 5px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.btn button {
+  padding: 5px 10px;
+  margin: 0 5px;
+  font-size: 13px;
+}
+.file {
+  margin: 5px 0;
+  padding-left: 25px;
+  display: grid;
+  gap: 10px;
+}
+
+h4 {
+  padding: 2px;
+  margin: 5px;
+  background: #dadada42;
+  border-radius: 10px;
+  width: 300px;
+  cursor: pointer;
+}
+
+.input-container {
+  margin: 7px 0;
+  padding-left: 10px;
+}
+
+img {
+  width: 20px;
+  display: inline-block;
+
+  cursor: pointer;
+}
+.File-container {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.inputContainer__Edit {
+  padding: 2px 4px;
+  margin: 0 5px 10px;
+} 
+
+.File_Edit {
+  margin-left: 30px;
+}
+
+.fileeditbtn {
+  cursor: pointer;
+}
