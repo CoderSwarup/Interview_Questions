@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+.wrapper {
+  display: grid;
+  /* grid-template-columns: (); */
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  border: 2px solid black;
+  background: #fff;
+  gap: 20px;
+  padding: 10px;
+}
+
+.cell {
+  background: none;
+  border: 1px solid black;
+}
+
+.cell__activetd {
+  background: green;
+}
