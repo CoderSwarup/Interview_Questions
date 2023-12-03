@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+li {
+  background: #dadada92;
+  width: 300px;
+  padding: 10px;
+}
+img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.container ul .details {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.pagination {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination .btn {
+  width: 50px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: black;
+  font-size: 18px;
+  margin: 0 20px;
+  padding: 4px 6px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  background-color: white;
+}
+
+.pagination .btn.selectedPage {
+  background-color: rgb(255, 208, 0);
+}
+
+.dots {
+  font-size: 30px;
+  margin: 0 10px;
+}
