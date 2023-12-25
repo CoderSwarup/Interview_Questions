@@ -4,7 +4,7 @@
 
 ### ScreenShot
 
-![File Explorer ScreenShot](ScreenShots/1_File_Explorer.png)
+![File Explorer ScreenShot](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703504315/samples/WebImg/rephn0ffi2by2vhrggb9.png)
 
 ---
 
@@ -14,7 +14,7 @@ Pagination in ReactJS refers to dividing a large set of data into smaller, more 
 
 ### ScreenShot
 
-## ![Pagenation](ScreenShots/2_Pagination.png)
+![Pagenation](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703504315/samples/WebImg/iqe1amnmpn5myyhobjad.png)
 
 ---
 
@@ -24,4 +24,4 @@ Build a grid of lights where the lights deactivate in the reverse order they wer
 
 ### ScreenShot
 
-![Grid Light Effects](ScreenShots/3_Grid_light.png)
+![Grid Light Effects](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703504314/samples/WebImg/cfwji13wbiepbq4cnfs9.png)
