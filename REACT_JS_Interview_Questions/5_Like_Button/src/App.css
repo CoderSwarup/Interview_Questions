@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+}
+
+:root {
+  --default-color: #ffffff;
+  --active-color: #f00;
+}
+.main {
+  display: grid;
+  width: 100%;
+  place-items: center;
+}
+.likebutton {
+  background: var(--default-color);
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  font-weight: 600;
+  border: 0.8px solid black;
+  border-radius: 20px;
+  padding: 5px 10px;
+  width: 90px;
+}
+
+img {
+  width: 30px;
+}
+
+.likebutton:hover {
+  color: var(--active-color);
+  border-color: var(--active-color);
+}
+
+.likedbutton {
+  background: var(--active-color);
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  font-weight: 600;
+  border: 0.8px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  padding: 5px 10px;
+  width: 90px;
+}
+
+.likedbutton img {
+  filter: invert(100%);
+}
+
+span {
+  margin: 5px 0;
+  color: var(--active-color);
+}

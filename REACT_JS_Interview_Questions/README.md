@@ -33,3 +33,16 @@ Build a Scalable ProgressBar With the Given Condition With The Accessibility
 ### ScreenShot
 
 ![Scalable Progress Bar](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703939963/samples/WebImg/snhxxezir6rriidw0fcw.png)
+
+## 5. Like Button
+
+Build a Like button that changes appearance based on the states using React
+
+> QRef == Build a Like button that changes appearance based on the states using React
+
+### ScreenShot
+
+![Like Button](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703942975/samples/WebImg/bmethlqdgugaamkwossg.png) <br>
+![Loading](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703942953/samples/WebImg/ylmbtpvoo1fgbyldkhxf.png) <br>
+![Liked](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703942953/samples/WebImg/pihpxjk5wycdwazeiile.png) <br>
+![Error](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703942953/samples/WebImg/spxs4v9dgok1kfewbezr.png)
