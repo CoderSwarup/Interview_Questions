@@ -25,3 +25,11 @@ Build a grid of lights where the lights deactivate in the reverse order they wer
 ### ScreenShot
 
 ![Grid Light Effects](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703504314/samples/WebImg/cfwji13wbiepbq4cnfs9.png)
+
+## 4. Scalable Progress Bar
+
+Build a Scalable ProgressBar With the Given Condition With The Accessibility
+
+### ScreenShot
+
+![Scalable Progress Bar](https://res.cloudinary.com/dc4li3m0r/image/upload/v1703939963/samples/WebImg/snhxxezir6rriidw0fcw.png)

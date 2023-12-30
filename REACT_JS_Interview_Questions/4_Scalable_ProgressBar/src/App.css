@@ -1,0 +1,40 @@
+h1,
+h3 {
+  text-align: center;
+}
+
+.main {
+  margin: 50px 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.progress {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 0;
+  height: 20px;
+  width: 500px;
+  border: 1px solid #dadada;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.value {
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.progress-fill {
+  position: absolute;
+  /* width: 100%; */
+  inset: 0;
+  /* width: 0; */
+  height: 100%;
+  background: rgb(0, 198, 30);
+  z-index: -1;
+}
